@@ -57,4 +57,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    print("Calculator: enter an expression, or 'q' to quit.")
